@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently learning the basics of GitHub and programming. I'm excited to see where it takes me!
+
 <!--
 **meknaak/meknaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
